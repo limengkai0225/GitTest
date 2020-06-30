@@ -8,5 +8,5 @@ public void run(){
 merge
 
 public void main(String[] args ){
-   Application.run("2");
+   Application.run("4");
 }
