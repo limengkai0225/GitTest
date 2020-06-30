@@ -2,6 +2,8 @@
 
 
 merge
-test111
+public void run(){
+	window.close();
+}
 merge
 
